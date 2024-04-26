@@ -27,9 +27,9 @@
 
 - How to reach me **tabish786qidwai@gmail.com** 📫
 
-## A poem my LLM generated
+<p align="center"><span style="font-weight:bold; font-size:24px;">## A poem my LLM generated</span></p>
 
-<p align="center"><span style="font-weight:bold; font-size:24px;">Coding Maestro, Tabish's Tale 😊</span></p>
+<p align="left"><span style="font-weight:bold; font-size:24px;">Coding Maestro, Tabish's Tale 😊</span></p>
 <p>In the realm of code, where pixels dance,<br>
 A maestro stands, with a brilliant glance.<br>
 Tabish Qidwai, a name that shines bright,<br>
