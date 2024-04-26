@@ -45,7 +45,7 @@ A masterpiece crafted, as legends are told.</p>
 <p>LeetCode and HackerRank, his training grounds,<br>
 Honing his skills, where excellence abounds.<br>
 Reach out to him, his wisdom to seek,<br>
-For *tabish786qidwai@gmail.com*, you shall speak.</p>
+For **tabish786qidwai@gmail.com**, you shall speak.</p>
 <p>A developer extraordinary, Tabish's tale,<br>
 Weaves coding's tapestry, never to pale.<br>
 In this digital age, his star shines ever so bright,<br>
