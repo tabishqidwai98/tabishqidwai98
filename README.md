@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tabish Qidwai</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<h5 align="right">Meet Tabish Qidwai, a passionate and skilled Full Stack developer hailing from India. With a diverse range of expertise spanning multiple programming languages and technologies, Tabish is a true polymath in the world of software development.
+At the core of his skillset lies a deep understanding of Django, a powerful Python web framework that he wields with finesse. But Tabish's interests don't stop there – he's also well-versed in data science, machine learning, and the intricacies of Python itself. Whether it's building robust web applications or diving into the realms of data analysis and model training, Tabish is equipped to tackle any challenge head-on.
+Tabish is particularly excited about collaborating on projects involving Tkinter, a Python GUI toolkit, and the Spotify API, where he's currently working on an exciting application called "Bub Music." His curiosity and thirst for knowledge extend to other domains as well, including dash, LLM, Go, Gardio, Android development, C#, and ASP.NET Core.
+With a keen interest in continuously improving his craft, Tabish actively participates on platforms like LeetCode, HackerRank, and HackerEarth, honing his problem-solving skills and staying up-to-date with the latest industry trends.
+Tabish's projects are showcased on his GitHub profile (https://github.com/tabishqidwai98), where you can explore the depth and breadth of his work. And if you ever need to reach out to him, feel free to drop him an email at tabish786qidwai@gmail.com – he's always eager to connect with fellow developers and share his knowledge.
+In addition to his technical prowess, Tabish is an active member of various programming communities, fostering connections and collaborating with like-minded individuals. With a strong foundation in languages and tools such as Bootstrap, C, C++, C#, CSS, Django, Docker, .NET, Flask, Git, Heroku, Hive, HTML, Jenkins, Linux, MySQL, OpenCV, Pandas, PHP, Python, Scikit-learn, Seaborn, and TensorFlow, he's well-equipped to tackle a wide range of software development challenges.
+Whether you're looking for a skilled developer to collaborate with or simply seeking guidance and mentorship in the world of programming, Tabish Qidwai is someone you'll want to connect with. His passion, expertise, and commitment to continuous learning make him a valuable asset to any team or project.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabishqidwai98&label=Profile%20views&color=0e75b6&style=flat" alt="tabishqidwai98" /> </p>
 
@@ -7,13 +14,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I’m looking to collaborate on tkinter, Spotify api **Bub music**
+- I’m looking to collaborate on tkinter **Bub music**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tabishqidwai98](https://github.com/tabishqidwai98)
+- All of my projects are available at [https://github.com/tabishqidwai98](https://github.com/tabishqidwai98) 👨‍💻 
 
-- 💬 Ask me about **Django, data science, ML, Python, dash, LLM, go, gardio, andriod,  c#, asp.net core,**
+- Ask me about **Django, data science, ML, Python, Flask, dash, LLM, go, gardio, andriod, c#, asp.net core.**
 
-- 📫 How to reach me **tabish786qidwai@gmail.com**
+- How to reach me **tabish786qidwai@gmail.com** 📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
