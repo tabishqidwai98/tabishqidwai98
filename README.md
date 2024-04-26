@@ -3,9 +3,8 @@
 
 
 # About Me :
-<h1 align="center">Hi 👋, I'm Tabish Qidwai</h1>
 
-<h4 align="left">Hi there! I'm Tabish Qidwai, a passionate Full Stack developer from India. My core expertise lies in Django and Python, but I'm also skilled in data science, machine learning, and a wide range of technologies like dash, LLM, Go, Gardio, Android, C#, ASP.NET Core, and more.</h4>
+<h4 align="left"><b>Hi there 👋, I'm Tabish Qidwai</b>, a passionate Full Stack developer from India. My core expertise lies in Django and Python, but I'm also skilled in data science, machine learning, and a wide range of technologies like dash, LLM, Go, Gardio, Android, C#, ASP.NET Core, and more.</h4>
 
 <h4>I'm currently collaborating on exciting projects involving Tkinter and the Spotify API, working on an app called "Bub Music." I continuously hone my skills on platforms like LeetCode, HackerRank, and HackerEarth, staying up-to-date with industry trends.</h4>
 
