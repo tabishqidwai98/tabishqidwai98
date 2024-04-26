@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tabishqidwai98&show_icons=true&locale=en" alt="tabishqidwai98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabishqidwai98&" alt="tabishqidwai98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabishqidwai98&](https://github-readme-streak-stats.herokuapp.com/demo/?user=tabishqidwai98&theme=dark&hide_border=true&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background" alt="tabishqidwai98" /></p>
 
