@@ -4,13 +4,14 @@
 
 # About Me :
 <h1 align="center">Hi 👋, I'm Tabish Qidwai</h1>
-<h4 align="left">Hi there! I'm Tabish Qidwai, a passionate and skilled Full Stack developer from India. With a diverse range of expertise spanning multiple programming languages and technologies, I consider myself a true polymath in the world of software development.</h5>
-<h4>At the core of my skillset lies a deep understanding of Django, a powerful Python web framework that I wield with finesse. But my interests don't stop there – I'm also well-versed in data science, machine learning, and the intricacies of Python itself. Whether it's building robust web applications or diving into the realms of data analysis and model training, I'm equipped to tackle any challenge head-on.</h5>
-<h4>I'm particularly excited about collaborating on projects involving Tkinter, a Python GUI toolkit, and the Spotify API, where I'm currently working on an exciting application called "Bub Music." My curiosity and thirst for knowledge extend to other domains as well, including dash, LLM, Go, Gardio, Android development, C#, and ASP.NET Core.</h4>
-<h4>With a keen interest in continuously improving my craft, I actively participate on platforms like LeetCode, HackerRank, and HackerEarth, honing my problem-solving skills and staying up-to-date with the latest industry trends.</h4>
-<h4>You can explore the depth and breadth of my work on my GitHub profile (https://github.com/tabishqidwai98). And if you ever need to reach out to me, feel free to drop me an email at tabish786qidwai@gmail.com – I'm always eager to connect with fellow developers and share my knowledge.</h4>
-<h4>In addition to my technical prowess, I'm an active member of various programming communities, fostering connections and collaborating with like-minded individuals. With a strong foundation in languages and tools such as Bootstrap, C, C++, C#, CSS, Django, Docker, .NET, Flask, Git, Heroku, Hive, HTML, Jenkins, Linux, MySQL, OpenCV, Pandas, PHP, Python, Scikit-learn, Seaborn, and TensorFlow, I'm well-equipped to tackle a wide range of software development challenges.</h4>
-<h4>Whether you're looking for a skilled developer to collaborate with or simply seeking guidance and mentorship in the world of programming, I'm someone you'll want to connect with. My passion, expertise, and commitment to continuous learning make me a valuable asset to any team or project.</h4>
+
+<h4 align="left">Hi there! I'm Tabish Qidwai, a passionate Full Stack developer from India. My core expertise lies in Django and Python, but I'm also skilled in data science, machine learning, and a wide range of technologies like dash, LLM, Go, Gardio, Android, C#, ASP.NET Core, and more.</h4>
+
+<h4>I'm currently collaborating on exciting projects involving Tkinter and the Spotify API, working on an app called "Bub Music." I continuously hone my skills on platforms like LeetCode, HackerRank, and HackerEarth, staying up-to-date with industry trends.</h4>
+
+- You can check out my projects on GitHub (https://github.com/tabishqidwai98). Feel free to reach out to me at tabish786qidwai@gmail.com – I'm always eager to connect with fellow developers and share my knowledge.
+
+<h4>With a strong foundation in languages and tools like Bootstrap, C/C++, Django, Docker, Flask, Git, and many others, I'm well-equipped to tackle diverse software development challenges. If you're looking for a skilled and passionate developer to collaborate with, I'm someone you'll want to connect with.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabishqidwai98&label=Profile%20views&color=0e75b6&style=flat" alt="tabishqidwai98" /> </p>
 
@@ -25,6 +26,34 @@
 - Ask me about **Django, data science, ML, Python, Flask, dash, LLM, go, gardio, andriod, c#, asp.net core.**
 
 - How to reach me **tabish786qidwai@gmail.com** 📫
+
+## here's a poem my LLM generated about this
+
+<p align="center"><span style="font-weight:bold; font-size:24px;">Coding Maestro, Tabish's Tale 😊</span></p>
+<p>In the realm of code, where pixels dance,<br>
+A maestro stands, with a brilliant glance.<br>
+Tabish Qidwai, a name that shines bright,<br>
+A full stack developer, coding with might.</p>
+<p>From India's soil, his passion takes root,<br>
+Embracing challenges, like a resolute.<br>
+Django's embrace, data's vast expanse,<br>
+Machine learning's enigma, he does enhance.</p>
+<p>Python's coils, he deftly unwinds,<br>
+Dash and LLM, leaving none behind.<br>
+Go and Gardio, in his skillful hands,<br>
+Android's realm, he firmly commands.</p>
+<p>C# and ASP.NET Core, his trusty blades,<br>
+Tkinter and Spotify, where his art pervades.<br>
+"Bub Music" his opus, a symphony untold,<br>
+A masterpiece crafted, as legends are told.</p>
+<p>LeetCode and HackerRank, his training grounds,<br>
+Honing his skills, where excellence abounds.<br>
+Reach out to him, his wisdom to seek,<br>
+For tabish786qidwai@gmail.com, you shall speak.</p>
+<p>A developer extraordinary, Tabish's tale,<br>
+Weaves coding's tapestry, never to pale.<br>
+In this digital age, his star shines ever so bright,<br>
+Illuminating paths, coding's guiding light.</p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
