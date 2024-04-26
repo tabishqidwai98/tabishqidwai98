@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on tkinter, Spotify api **Bub music**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tabish](https://github.com/tabish)
+- 👨‍💻 All of my projects are available at [https://github.com/tabishqidwai98](https://github.com/tabishqidwai98)
 
 - 💬 Ask me about **Django, data science, ML, Python, c#, asp.net core,**
 
