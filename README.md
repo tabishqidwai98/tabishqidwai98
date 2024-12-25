@@ -6,7 +6,7 @@
 
 <h4 align="left">Hi there 👋, I'm Tabish Qidwai, a passionate Full Stack developer from India. My core expertise lies in Django and Python, but I'm also skilled in data science, machine learning, and a wide range of technologies like dash, LLM, Go, Gardio, Android, C#, ASP.NET Core, and more.</h4>
 
-<h4>I'm currently collaborating on exciting projects involving Tkinter and the Spotify API, working on an app called "Bub Music." I continuously hone my skills on platforms like LeetCode, HackerRank, and HackerEarth, staying up-to-date with industry trends.</h4>
+<h4>I'm currently collaborating on exciting projects involving picture-based plant disease recognition, working on an app called "Bub Music." I continuously hone my skills on platforms like LeetCode, HackerRank, and HackerEarth, staying up-to-date with industry trends.</h4>
 
 - You can check out my projects on GitHub (https://github.com/tabishqidwai98). Feel free to reach out to me at tabish786qidwai@gmail.com – I'm always eager to connect with fellow developers and share my knowledge.
 
@@ -14,11 +14,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabishqidwai98&label=Profile%20views&color=0e75b6&style=flat" alt="tabishqidwai98" /> </p>
 
-- I’m looking to collaborate on tkinter **Bub music**
+- All of my projects are available at [https://github.com/tabishqidwai98](https://github.com/tabishqidwai98) 👨‍💻
 
-- All of my projects are available at [https://github.com/tabishqidwai98](https://github.com/tabishqidwai98) 👨‍💻 
-
-- Ask me about **Django, data science, ML, Python, Flask, dash, LLM, go, gardio, andriod, c#, asp.net core.**
+- Ask me about **Django, data science, ML, Python, Flask, dash, LLM, go, gardio, android, c#, asp.net core.**
 
 - How to reach me **tabish786qidwai@gmail.com** 📫
 
@@ -46,7 +44,7 @@ Honing his skills, where excellence abounds.<br>
 Reach out to him, his wisdom to seek,<br>
 For tabish786qidwai@gmail.com, you shall speak.</p>
 <p>A developer extraordinary, Tabish's tale,<br>
-Weaves coding's tapestry, never to pale.<br>
+Weaves coding's tapestry, never too pale.<br>
 In this digital age, his star shines ever so bright,<br>
 Illuminating paths, coding's guiding light.</p>
 <p> - by Humane AI (LLM) </p>
