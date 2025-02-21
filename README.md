@@ -6,7 +6,7 @@
 
 <h4 align="left">Hi there 👋, I'm Tabish Qidwai, a passionate Full Stack developer from India. My core expertise lies in Django and Python, but I'm also skilled in data science, machine learning, and a wide range of technologies like dash, LLM, Go, Gardio, Android, C#, ASP.NET Core, and more.</h4>
 
-<h4>I'm currently collaborating on exciting projects involving picture-based plant disease recognition, working on an app called "Bub Music." I continuously hone my skills on platforms like LeetCode, HackerRank, and HackerEarth, staying up-to-date with industry trends.</h4>
+<h4>I continuously hone my skills on platforms like LeetCode, HackerRank, and HackerEarth, staying up-to-date with industry trends.</h4>
 
 - You can check out my projects on GitHub (https://github.com/tabishqidwai98). Feel free to reach out to me at tabish786qidwai@gmail.com – I'm always eager to connect with fellow developers and share my knowledge.
 
